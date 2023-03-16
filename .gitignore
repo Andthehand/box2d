@@ -5,3 +5,12 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+# RealEngine-specific
+# Directories
+bin/
+bin-int/
+
+# Visual Studio files and folder
+*.sln
+*.vcxproj*
